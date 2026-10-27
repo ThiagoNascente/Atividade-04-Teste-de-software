@@ -1,0 +1,1 @@
+Digite duas notas inteiras (0 a 10) e a frequencia (0 a 100): Notas devem estar entre 0 e 10 e frequencia entre 0 e 100.

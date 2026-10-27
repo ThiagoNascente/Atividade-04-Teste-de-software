@@ -1,0 +1,2 @@
+Digite duas notas inteiras (0 a 10) e a frequencia (0 a 100): Media: 5.0
+REPROVADO POR NOTA

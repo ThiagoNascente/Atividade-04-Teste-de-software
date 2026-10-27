@@ -1,0 +1,30 @@
+# Resultado da execucao
+
+Casos: 24. Mutantes: 0.
+
+| Programa | Caso | Resultado |
+|---|---|---|
+| Original | CT01 | REFERENCIA ORIGINAL |
+| Original | CT02 | REFERENCIA ORIGINAL |
+| Original | CT03 | REFERENCIA ORIGINAL |
+| Original | CT04 | REFERENCIA ORIGINAL |
+| Original | CT05 | REFERENCIA ORIGINAL |
+| Original | CT06 | REFERENCIA ORIGINAL |
+| Original | CT07 | REFERENCIA ORIGINAL |
+| Original | CT08 | REFERENCIA ORIGINAL |
+| Original | CT09 | REFERENCIA ORIGINAL |
+| Original | CT10 | REFERENCIA ORIGINAL |
+| Original | CT11 | REFERENCIA ORIGINAL |
+| Original | CT12 | REFERENCIA ORIGINAL |
+| Original | CT13 | REFERENCIA ORIGINAL |
+| Original | CT14 | REFERENCIA ORIGINAL |
+| Original | CT15 | REFERENCIA ORIGINAL |
+| Original | CT16 | REFERENCIA ORIGINAL |
+| Original | CT17 | REFERENCIA ORIGINAL |
+| Original | CT18 | REFERENCIA ORIGINAL |
+| Original | CT19 | REFERENCIA ORIGINAL |
+| Original | CT20 | REFERENCIA ORIGINAL |
+| Original | CT21 | REFERENCIA ORIGINAL |
+| Original | CT22 | REFERENCIA ORIGINAL |
+| Original | CT23 | REFERENCIA ORIGINAL |
+| Original | CT24 | REFERENCIA ORIGINAL |

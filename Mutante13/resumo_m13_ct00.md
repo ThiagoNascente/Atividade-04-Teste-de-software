@@ -1,0 +1,30 @@
+# Resultado da execucao
+
+Casos: 24. Mutantes: 1.
+
+| Programa | Caso | Resultado |
+|---|---|---|
+| Mutante13 | CT01 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT02 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT03 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT04 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT05 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT06 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT07 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT08 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT09 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT10 | MORTO |
+| Mutante13 | CT11 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT12 | MORTO |
+| Mutante13 | CT13 | MORTO |
+| Mutante13 | CT14 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT15 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT16 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT17 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT18 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT19 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT20 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT21 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT22 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT23 | SOBREVIVE NESTE CASO |
+| Mutante13 | CT24 | SOBREVIVE NESTE CASO |
